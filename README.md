@@ -2,4 +2,4 @@
 
 Code for Deep Learning Nanodegree at Udacity
 
-Project 1
+Project 2
